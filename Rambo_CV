@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>CV John Rambo</title>
+  <style>
+    div {
+      width: 650px
+    }
+
+    div.a {
+      word-wrap: normal
+
+    }
+  </style>
+<link rel="stylesheet" href="style.css" type="text/css"/>
+</head>
+
+<body>
+  <table style="float:left" cellpadding="10">
+    <td width="200">
+      <img width="250" height="350" src="images/rambo.jpg" />
+    </td>
+    &nbsp &nbsp &nbsp
+    <td style="text-align:center">
+      <br /> <br /> <br /> <br /> <br />
+      <h1> JOHN RAMBO </h1>
+      <hr /><h3>
+    <a href="https://www.history.com/topics/vietnam-war/vietnam-war-history" target="_blank">Vietnam</a> weteran soldier</h3>
+      <hr />
+      <h3> <a href="https://en.wikipedia.org/wiki/United_States_Army_Special_Forces" target="_blank"> Special Forces Green Beret</a>
+      </h3>
+      <hr />
+      <h3>
+        <a href="https://en.wikipedia.org/wiki/Medal_of_Honor" target="_blank"> Medal of Honor</a> recipient
+
+      </h3>
+  </table>
+  <div style="clear:both">
+  </div>
+  <h2>About Me:</h2>
+  <div class="a">
+    <i> I know what I am. What I'am made of. War is in my blood.I don't fight it. I didn't kill for my country.I killed for myself. God's never gonna make that go away. When I'm pushed, killing's as easy as breathing.</i>
+  </div>
+  <h2>Key Achievements:</h2>
+
+  <table border="2px" width="650">
+    <thead bgcolor="red">
+      <td>
+        Year
+        </td>
+        <td>
+          Bad guys killed
+          </td>
+          <td>
+            Main aim
+            </td>
+    </thead>
+    <tr>
+      <td>
+        Vietnam war
+        </td>
+        <td>
+      59
+          </td>
+          <td>
+            Just to survive
+            </td>
+      </tr>
+      <tr>
+        <td>
+          1982
+          </td>
+          <td>
+          1 (but not intentionally)
+            </td>
+            <td>
+              To overcome existential crisis.
+              </td>
+        </tr>
+        <tr>
+          <td>
+            1985
+            </td>
+            <td>
+              75
+              </td>
+          <td>
+            To rescue prisoners of Vietnam war.
+          </td>
+<tr>
+            <td>
+              1988
+            </td>
+            <td>
+              115
+            </td>
+          <td>
+            To save civilians in Afganistan from Soviet Army.
+          </td>
+</tr>
+<tr>
+  <td>
+    2008
+  </td>
+  <td>
+    254
+  </td>
+  <td>
+    To help a team of Christian missionaries enter Burma to help suffering villagers.
+  </td>
+</tr>
+<tr>
+  <td>
+    2019
+  </td>
+  <td>
+46
+  </td>
+  <td>
+    To rescue friend's granddaughter.
+  </td>
+</tr>
+    </table>
+    <h2>Skills set</h2>
+    <table style="width:50%">
+      <tr>
+        <td>
+          Knife
+        </td>
+        <td>
+          ⭐⭐⭐⭐⭐
+        </td>
+        <td>
+          AKM
+        </td>
+        <td>
+          ⭐⭐⭐
+        </td>
+      </tr>
+      <tr>
+        <td>
+          M60
+        </td>
+        <td>
+          ⭐⭐⭐⭐
+        </td>
+        <td>
+          Compound Bow
+        </td>
+        <td>
+          ⭐⭐⭐⭐
+        </td>
+      </tr>
+    </table>
+<hr />
+<h2>Links:</h2>
+<a href ="https://www.youtube.com/watch?v=O9oaILpVSKU" target="_blank">Me best quotes</a>
+ &nbsp
+<a href="Links.html" targer="_blank">Contact</a>
+</p>
+
+
+
+
+
+</body>
+
+</html>
